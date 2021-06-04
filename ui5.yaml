@@ -1,0 +1,4 @@
+specVersion: '2.3'
+metadata:
+  name: stackblitz-ui5-template
+type: application

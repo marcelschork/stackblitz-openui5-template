@@ -1,0 +1,13 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="stackblitz.ui5.template.controller.App" displayBlock="true">
+	<App>
+		<Page
+			title="OpenUI5@StackBlitz"
+			class="sapUiContentPadding sapUiResponsivePadding--header sapUiResponsivePadding--content sapUiResponsivePadding--footer">
+			<content>
+				<VBox>
+					<Title level="H1" titleStyle="H1" text="{i18n>hello} {/world}!" />
+				</VBox>
+			</content>
+		</Page>
+	</App>
+</mvc:View>

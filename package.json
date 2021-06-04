@@ -1,0 +1,12 @@
+{
+	"name": "stackblitz-ui5-template",
+	"version": "0.2.0",
+	"description": "StackBlitz UI5 Template",
+	"private": true,
+	"scripts": {
+		"start": "ui5 serve -o index.html"
+	},
+	"devDependencies": {
+		"@ui5/cli": "^2.11.0"
+	}
+}
