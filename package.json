@@ -4,7 +4,7 @@
 	"description": "StackBlitz UI5 Template",
 	"private": true,
 	"scripts": {
-		"start": "ui5 serve"
+		"start": "ui5 serve -o index.html"
 	},
 	"devDependencies": {
 		"@ui5/cli": "^2.11.0"
